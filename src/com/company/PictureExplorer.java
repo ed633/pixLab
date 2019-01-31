@@ -773,7 +773,7 @@ public class PictureExplorer implements MouseMotionListener, ActionListener, Mou
     }
     
     /**
-     * Method to get the previous component for focus
+     * Methodto get the previous component for focus
      */
     public Component getComponentBefore(Container focusCycleRoot,
                                         Component aComponent) {
